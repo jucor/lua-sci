@@ -1,7 +1,3 @@
 # Sci Library for Lua
 
-See [http://scilua.org/sci.html] for the explanation.
-
-MIT License.
-
-Authior: S. Peluchetti
+See [https://github.com/stepelu/lua-sci](the official GitHub repository) and [http://scilua.org/sci.html](the project's homepage) for the explanation.
